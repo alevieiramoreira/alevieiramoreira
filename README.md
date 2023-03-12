@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey 👋
+
+Eu sou a alê e trabalho com frontend há mais de 3 anos. Atualmente estou trabalhando com desenvolvimento de experiência para Smart Tvs, estudando acessibilidade e procurando trocar conhecimentos sobre esse assunto. 
+
+- 📫 Contato: [/in/alessandra-vmoreira](https://www.linkedin.com/in/alessandra-vmoreira/)
+- 😄 Pronomes: ela/she
+- ⚡ Fun fact: Tenho 5 calopsitas e sempre criei e resgatei aves. :parrot: :heart:
 
 <!--
 **alevieiramoreira/alevieiramoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
