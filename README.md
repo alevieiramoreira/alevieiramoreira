@@ -1,6 +1,6 @@
 ### Hey 👋
 
-Eu sou a alê e trabalho com frontend há mais de 3 anos. Atualmente estou trabalhando com desenvolvimento de experiência para Smart Tvs, estudando acessibilidade e procurando trocar conhecimentos sobre esse assunto. 
+Eu sou a alê e trabalho com frontend há 4 anos. Atualmente estou trabalhando com desenvolvimento de experiência para Smart TVs na Globo, estudando acessibilidade e procurando trocar conhecimentos sobre esse assunto. 
 
 - 📫 Contato: [/in/alessandra-vmoreira](https://www.linkedin.com/in/alessandra-vmoreira/)
 - 😄 Pronomes: ela/she
