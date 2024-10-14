@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, typescript and web accessibility**
 
-- ⚡ Fun fact: **I'm a bird owner, and an RPG lover.**
+- ⚡ Fun fact: **I'm a bird owner 🐦 and an RPG lover.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
